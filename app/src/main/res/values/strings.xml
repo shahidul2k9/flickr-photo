@@ -46,6 +46,6 @@
     <string name="menu_item_clear_memory_cache">Clear memory cache</string>
     <string name="menu_item_clear_disc_cache">Clear disc cache</string>
     <string name="descr_image">Image</string>
-    <string name="banner_ad_unit_id">ca-app-pub-8904861399331639/4191079500</string>
-    <string name="flickr_photo_interstitial">ca-app-pub-8904861399331639/6092531104</string>
+    <string name="banner_ad_unit_id"></string>
+    <string name="flickr_photo_interstitial"></string>
 </resources>
